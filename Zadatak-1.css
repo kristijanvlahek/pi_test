@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+}
+
+p {
+  background-color: yellow;
+}
+
+
+/* Unutar ovog CSS-a postaviti klasu koja će imati lijevu i desnu marginu 10 px za srednji odlomak */
+/* KLASU PISATI ISPOD OVOG KOMENTARA*/
+
+.klasa{
+  margin: 0px 10px 0px 10px;
+}

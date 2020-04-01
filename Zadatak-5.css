@@ -1,0 +1,6 @@
+/* obojiti svaki parni red u sivu boju 
+	Napisati kod u ovoj CSS datoteci*/
+
+li:nth-child(even){
+    background-color:grey;
+}

@@ -1,0 +1,20 @@
+/* div treba biti u gornjem desnom kutu.
+	prilikom skrolanja stranice gore dolje
+	on treba ostati u tom položaju
+	Svojstva i vrijednosti upisati u klasu .goreDesno
+	*/
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: skyblue;
+  color: white;
+}
+
+.goreDesno {
+  position: fixed;
+  width: 300px;
+  border: 3px solid red;
+  color: black;
+  top: 0px;
+  right: 0px;
+}

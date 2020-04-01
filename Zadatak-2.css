@@ -1,0 +1,16 @@
+/* Unutar ovog CSS-a postaviti obrub koji će imati sljedeća svojstva za sve <p> elemente:
+	- debljina obruba lijeve i desne stranice: 4px
+	- debljina obruba gornje i donje stranice: 2px
+	- stil obruba: solid
+	- boja obruba: #00FF00
+	*/
+/* PISATI ISPOD OVOG KOMENTARA*/
+
+p{
+    border-style: solid;
+    border-bottom-width: 2px;
+    border-top-width: 2px;
+    border-left-width: 4px;
+    border-right-width: 4px;
+    border-color: #00FF00;
+}
